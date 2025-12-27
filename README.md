@@ -1,4 +1,4 @@
-<p align="left">👋 Oi, eu sou Gabriel! Um apaixonado estudante de programação em Python do Brasil.<br><br>🔭 Estou procurando minha primeira oportunidade de trabalho. Meu sonho é um dia trabalhar com desenvolvimento de sistema <br><br>👨 💻 Mais sobre mim</p>
+<p align="left">👋 Oi, eu sou Gabriel! Um apaixonado estudante de programador do Brasil.<br><br>🔭 Estou procurando minha primeira oportunidade de trabalho. Meu sonho é um dia trabalhar com desenvolvimento de sistema <br><br>👨 💻 Mais sobre mim</p>
 
 ###
 
